@@ -18,7 +18,7 @@ End the program.
 
 
 ## PROGRAM:
-
+```
 Developed by: Subhikshaa M
 RegisterNumber: 22001030
 import pandas as pd
@@ -27,6 +27,7 @@ print(df.head(10))
 print(df.tail())
 print("column", len(df.axes[0]))
 print("rows", len(df.axes[1]))
+```
 ## OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/118787344/214054844-8c3feaa2-3bb3-418f-9f6e-04790168a99f.png)
